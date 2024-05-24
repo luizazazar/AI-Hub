@@ -1,7 +1,7 @@
 // In-memory list of items (variable)
 const items = [
     { title: 'AIBots', description: "Design your chatbot in 15 minutes", link: "./AIBots Page.html", about: "ChatGPT is useful but it only contains internet data. When you can include a knowledge base (until Restricted\Sensitive-Normal), there are many more possibilities where you can leverage large language models to help improve your agency's work and productivity. AIBots is a platform allowing agencies to create AI Chatbots with pre-configured system prompts and an added knowledge base (.pdf, .docx, .txt files)." },
-    { title: 'Pair Suite', description: 'Your ChatGPT-equivalent tool.' },
+    { title: 'Pair Chat', description: 'Your ChatGPT-equivalent tool.' },
     { title: 'Transcribe', description: 'Record and summarise your meeting minutes.' },
     { title: 'LaunchPad', description: 'Share your ideas.' },
     { title: 'ReadLiao', description: 'Convert complicated letters to simplified ones.' },
